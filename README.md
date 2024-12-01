@@ -1,1 +1,1 @@
-This is the description of my repo
+This is a project for practicing branching, merging, and resolving conflicts.
